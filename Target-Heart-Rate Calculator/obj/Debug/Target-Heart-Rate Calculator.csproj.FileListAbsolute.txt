@@ -1,0 +1,7 @@
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\bin\Debug\Target-Heart-Rate Calculator.exe.config
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\bin\Debug\Target-Heart-Rate Calculator.exe
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\bin\Debug\Target-Heart-Rate Calculator.pdb
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.exe
+C:\Users\Sydney\Desktop\C#\Applications\Visual C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.pdb
